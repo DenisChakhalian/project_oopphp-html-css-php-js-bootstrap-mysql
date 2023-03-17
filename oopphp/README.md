@@ -7,16 +7,16 @@ how to open locally:
 4. Go to the link http://localhost/phpmyadmin/ and create a new one database named loginsystem
 5. Then click on Import and import the file (loginsystem.sql) database (Fig. 1, 2).
 
-<img src="https://cdn.discordapp.com/attachments/427079543472390147/1086291961394237470/image.png">
-
 ##### Fig. 1
 
-<img src="https://cdn.discordapp.com/attachments/427079543472390147/1086292021741891594/image.png">
+<img src="https://cdn.discordapp.com/attachments/427079543472390147/1086291961394237470/image.png">
 
 ##### Fig. 2
 
+<img src="https://cdn.discordapp.com/attachments/427079543472390147/1086292021741891594/image.png">
+
 6. After that you can open the site itself. To do this, you need to go to link http://localhost/dashboard/kurs/pages/index.php (Fig. 3).
 
-<img src="https://cdn.discordapp.com/attachments/427079543472390147/1086293868141613066/image.png">
-
 ##### Fig. 3
+
+<img src="https://cdn.discordapp.com/attachments/427079543472390147/1086293868141613066/image.png">
