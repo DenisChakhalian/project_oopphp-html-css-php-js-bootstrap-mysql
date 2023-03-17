@@ -1,5 +1,7 @@
 # project_oopphp (html, css, php, js, bootstrap, mysql)
 
+### Development was carried out until July 14 2022
+
 how to open locally:
 1. For the correct operation of the database and php, use xampp.
 2. clone repository to the C:\xampp\htdocs\dashboard folder.
